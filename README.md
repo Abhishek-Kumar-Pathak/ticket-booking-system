@@ -10,6 +10,7 @@ A collage Project based on C language, File system used to store data.
 - Ticket Status
 - Cancel Ticket
 - Booking History
+- Update Account
 
 
 
